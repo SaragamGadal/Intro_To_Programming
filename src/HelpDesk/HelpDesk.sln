@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpDesk.Api", "HelpDesk.Api\HelpDesk.Api.csproj", "{5D396110-1253-4A82-B3AB-AC55ADB98E77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpDesk.Tests", "HelpDesk.Tests\HelpDesk.Tests.csproj", "{52A5F84F-51A5-4845-B2B4-E49EDE4679B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D396110-1253-4A82-B3AB-AC55ADB98E77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D396110-1253-4A82-B3AB-AC55ADB98E77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D396110-1253-4A82-B3AB-AC55ADB98E77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D396110-1253-4A82-B3AB-AC55ADB98E77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52A5F84F-51A5-4845-B2B4-E49EDE4679B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52A5F84F-51A5-4845-B2B4-E49EDE4679B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52A5F84F-51A5-4845-B2B4-E49EDE4679B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52A5F84F-51A5-4845-B2B4-E49EDE4679B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81122790-F11B-4F7A-957B-BDD95BE59AF1}
+	EndGlobalSection
+EndGlobal
